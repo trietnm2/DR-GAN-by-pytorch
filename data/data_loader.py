@@ -8,7 +8,7 @@ def CreateDataLoader(opt):
     Return the dataloader according to the opt.
     """
     import sys
-    sys.path.append('/home/zhangjunhao/data')
+    sys.path.append('data')
     from dataset import FDDataset
     transform = transforms.Compose([
         transforms.Scale((100, 100)),       #Switch to the transforms.Resize on the service

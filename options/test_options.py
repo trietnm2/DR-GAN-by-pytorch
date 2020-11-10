@@ -1,5 +1,5 @@
 import sys
-sys.path.append('/home/zhangjunhao/options')
+sys.path.append('options')
 from base_options import BaseOptions
 
 class TestOptions(BaseOptions):
