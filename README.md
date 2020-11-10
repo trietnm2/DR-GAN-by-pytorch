@@ -20,7 +20,7 @@
 
 ### Install Enviroment
 1. Install Anaconda with Python 3.6
-[Installing Anaconda and Python 3.6 in Mac/Windows](https://www.cse.unsw.edu.au/~en1811/resources/getting-started/install-anaconda.html)
+    - [Installing Anaconda and Python 3.6 in Mac/Windows](https://www.cse.unsw.edu.au/~en1811/resources/getting-started/install-anaconda.html)
 
 2. Run pip3 install -r requirements.txt
 
