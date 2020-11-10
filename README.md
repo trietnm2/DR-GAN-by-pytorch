@@ -7,7 +7,7 @@
 - Added a pretrained ResNet18 to offer a feature loss in order to improve Generator's performance. (Only in Multi_DRGAN)
 
 ## Requirements
-- python 3.x
+- python 3.6
 - pytorch 0.2
 - torchvision
 - numpy
@@ -17,6 +17,12 @@
 - tensorboardX
 
 ## How to use
+
+### Install Enviroment
+1. Install Anaconda with Python 3.6
+[Installing Anaconda and Python 3.6 in Mac/Windows](https://www.cse.unsw.edu.au/~en1811/resources/getting-started/install-anaconda.html)
+
+2. Run pip3 install -r requirements.txt
 
 ### Single-Image DR-GAN
 
